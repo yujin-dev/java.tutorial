@@ -1,5 +1,6 @@
+package exercise;
 // Method로 작성한 계산기 예시
-public class CalcMethod {
+public class CalcMethodDemo {
     public static void avg(int left, int right) {
         System.out.println((left+right)/2);
     }

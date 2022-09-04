@@ -1,4 +1,5 @@
-// class로 계산기 로직을 정의하여 인스턴스 생성
+package exercise;
+// class로 계산기 로직을 정의하여 인스턴스 생성, 실행
 class Calculator { // class
     int left, right;
 
@@ -14,7 +15,7 @@ class Calculator { // class
     }
 }
 
-public class CalcClass { 
+public class CalcClassDemo { 
     int left, right;
     public static void main(String[] args) {  
         Calculator cl = new Calculator(); // create instance

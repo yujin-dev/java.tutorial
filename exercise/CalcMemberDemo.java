@@ -1,3 +1,4 @@
+package exercise;
 /*
 클래스 변수
 - 인스턴스에 따라 값이 변하지 않을 경우
@@ -55,7 +56,7 @@ class C1 {
     }
 }
 
-public class CalcMember {
+public class CalcMemberDemo {
     public static void main(String[] args) {
 
         Calculator1 c1 = new Calculator1();
